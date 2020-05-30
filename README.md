@@ -1,6 +1,6 @@
-# `module.kafka_connect_tocloud` - ContEco
+# `module.kafka_connect_sasl` - ContEco
 
-An Kafka Connect module.
+ContEco Confluent Kafka Connect module, with SASL authentication.
 See `conteco.docs.overview` for more information on the ContEco ecosystem.
 
 ## Configuration

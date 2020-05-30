@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # START CONFIGURATION
-export CONTECO_DC_GLOBAL_PACKAGE_CONTECO="module.kafka_connect_tocloud"
+export CONTECO_DC_GLOBAL_PACKAGE_CONTECO="module.kafka_connect_sasl"
 export CONTECO_DC_GLOBAL_PACKAGE_TAG="5.4.0"
 export CONTECO_DC_GLOBAL_STACKNAMES="conteco_dc_kafka_connect,conteco_dc_kafka_connect_ext_rest"
 export CONTECO_DC_GLOBAL_BOOTSTACKS="conteco_dc_kafka_connect"

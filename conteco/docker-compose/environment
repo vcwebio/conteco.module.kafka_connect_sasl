@@ -2,7 +2,7 @@
 
 # START CONFIGURATION
 DOLLAR='$'
-export CONTECO_DC_GLOBAL_STACKS="kafka_connect.tocloud,nginx.rewrite"
+export CONTECO_DC_GLOBAL_STACKS="kafka_connect.sasl,nginx.rewrite"
 export CONTECO_DC_GLOBAL_STACKNAMES_PREVIOUS="conteco_dc_kafka_connect,conteco_dc_url_rewrite"
 export CONTECO_DC_GLOBAL_STACKNAMES="conteco_dc_kafka_connect,conteco_dc_kafka_connect_ext_rest"
 export CONTECO_DC_GLOBAL_BOOTSTACKS="conteco_dc_kafka_connect"
